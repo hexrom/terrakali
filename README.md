@@ -1,4 +1,4 @@
-# kali-tf
+# terrakali
 Terraform automation to deploy Kali Linux penetration testing distro instances in AWS
 
 ## Module Inputs
